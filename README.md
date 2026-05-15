@@ -37,7 +37,9 @@ Consider discount offer on Fashion and Accessories to stimulate customers intere
 
 ## TOOLS 
 -MS Excel
+
 -Power BI
+
 -PowerPoint
 
 
